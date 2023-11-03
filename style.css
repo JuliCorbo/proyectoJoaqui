@@ -1,0 +1,122 @@
+.container{
+    width:100% ;
+    display: flex;
+
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(6,116,11,1) 35%, rgba(0,212,255,1) 100%);
+}
+.imglogo{
+    width: 10%;
+    border-radius: 10%;
+    border-style: solid;
+    border-color: aqua;
+} 
+.body{
+    *{
+        margin:0;
+        padding: 0;
+    }
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.listContainer{ 
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    padding-top: 50px;
+    
+}
+
+.logocontainer{
+    display: flex;
+ }
+ .landing {
+    font-size: 2rem;
+    display: flex;
+    color:white
+    }
+
+
+    .listContainer li{
+        list-style: none;
+    }
+    
+    .container2{ display: flex;
+        
+
+    }
+    .img-container{
+        width: 
+       100%;
+    }
+    .img{
+       width:400px;
+      padding-left: 35%;
+      margin-top: 10px ;
+    }
+    .text{
+        margin-top: 10px;
+        margin-left: 2rem;
+
+        };
+
+        #titulo{
+            color: blue;
+        }
+
+    .parrafo1{font-weight: bold;}
+
+    .parrafo2{  
+        font-size: 2rem;
+        color: blueviolet;
+    }
+
+    .button{
+        background-color: coral;
+        border-radius: 5px; 
+       padding-right: 1.5rem;
+       padding-top: 1rem;
+       padding-bottom: 1rem    ;
+       padding-left: 1.5rem;
+     
+    }
+    
+    .youtubi {
+       
+        justify-content: space-evenly;
+        display: flex;
+
+        margin-top: 3rem;
+        
+    }  
+   
+    .iframecontainer {  
+        width: 100%;
+        
+    }
+    .footer {display: flex;
+    background-color: aqua;
+justify-content: space-between;
+    width: 100%;}
+
+    .texto {width: 33%;}
+    
+    .Lorem { width: 33%;
+        text-align: center;
+        height: 250px;
+    
+    
+    }
+
+    .imagenfooter { 
+        width: 50%;
+        margin-left: 30px;
+        
+        
+        
+    }
+    .spinetta { margin-left: 5rem;
+    
+width: 33%;
+    }
